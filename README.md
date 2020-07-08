@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+## Tractatus Logico Orgnosticismus
 
-You can use the [editor on GitHub](https://github.com/orgnostic/tractatus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts” - _Ludwig Wittgenstein, Preface to Tractatus Logico-Philosophicus_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ludwig Wittgenstein’s TLP was the philosopher’s attempt to structure the most important questions of philosophy, and present solutions to these problems. His solutions are a series of interlinked axioms and logical deductions based on the set of his representations of the world. 
 
-### Markdown
+Inspired by Wittgenstein’s structure of thoughts, but with much less sophistication and ambition, (and narrower scope, to say the least) a few of us at [Orgnostic](https://orgnostic.com) wanted to create a document that will encapsulate our key ideas, learnings, and logical deductions that keep driving the development of our product and our organization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inspired by Wittgenstein’s structure of thoughts, but with much less sophistication and ambition, (and narrower scope, to say the least) a few of us at Orgnostic wanted to create a document that will encapsulate our key ideas, learnings, and logical deductions that keep driving the development of our product and our organization.
 
-```markdown
-Syntax highlighted code block
+“If this work has a value it consists in two things. First that in it thoughts are expressed, and this value will be the greater the better the thoughts are expressed.” 
 
-# Header 1
-## Header 2
-### Header 3
+This document will be public, live, and will go through many revisions and versions as our organization grows. It will also be a testament to our changing knowledge and culture in the face of our future growth. We believe that such a transparent document will be valuable to our customers, partners, and future employees in a better understanding of where we come from, and where we are going. That being said, we will keep our Tractatus in a version control system to better track these changes as we evolve.
 
-- Bulleted
-- List
+“Indeed what I have here written makes no claim to novelty in points of detail; and therefore I give no sources, because it is indifferent to me whether what I have thought has already been thought before me by another.” 
 
-1. Numbered
-2. List
+Without further ado, these are the truths we believe in, that guide our thinking and doing while building our new venture:
 
-**Bold** and _Italic_ and `Code` text
+1. The value of traditional intangibles is outpacing the value of tangible assets at a significant and increasing rate. Organizational capital presents a substantial portion of those intangibles.
 
-[Link](url) and ![Image](src)
-```
+    + Allegedly, Drucker said that it’s impossible to manage what you can’t measure; while we disagree with the extremity of such a statement, we still believe that managing what you don’t measure is pretty damn hard. The ability to set a meaningful baseline and track progress is at the core of every productivity optimization.
+    
+        + To compete in industry 4.0, leaders and investors need to start measuring and managing their organizational capital with the same rigor as financial results. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+2. Knowledge has always been the biggest agent of change. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orgnostic/tractatus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    + Knowledge is often hidden in large, unstructured data that is hard to capture and understand.
+    
+        + Organizational knowledge is distributed and hidden within the teams and individuals. It is ultimately the answer to “who are we?” and “what can we do?” and, consequently, “what is the X that we need to change to achieve Y?”. 
+            
+            + Capturing scattered and hidden organizational data and transforming it into knowledge is at the foundation of understanding and change within the leadership and, consequently, the organization as a whole. 
+            
+3. HR teams, by and large, lack the resources and influence on a management/board level to drive the change in the way people data can shape business strategies. We believe that the mass implementation of data-informed decision making to develop org strategies will become a reality once we witness a strong top-down push.
 
-### Support or Contact
+4. Products for HR data analytics generally focus on building companies’ capability to either generate new data or aggregate existing sets.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    + Products that allow you to create new data (such as survey tools) are generally siloed and provide information and recommendations disconnected from the context of the organization and business directions. This makes it hard for business-oriented managers to find the real value in the set of “engagement” metrics other than relying on the common knowledge that engagement drives performance. 
+    
+        + Out of hundreds of engagement, effectiveness, and culture surveys, less than 10% pass the test-retest reliability, and 10% of those show convergent and discriminant validity for the constructs they claim to measure. 
+        
+        + Sending endless employee surveys is creating fatigue and resentment. However, surveying is still one of the most prominent methods to assess human experience. Companies need to challenge their survey strategies and make them lean by removing unnecessary probes.
+        
+    + Pure HR data aggregation makes it hard for anyone who lacks the I-O psychology reference system and theoretical knowledge to interpret the data in the right and, ultimately, meaningful way.
+    
+        + HR data aggregation products often limit themselves to HR datasets, neglecting business data, and market research.
+        
+5. Theory without data is empty; data without theory is blind.
+
+    + While conducting a proper human capital diagnostic process, companies need to precisely determine what kind of data they require before the collection starts. Only if you have a theory in mind, you’ll know what type of data you need to track.
+    
+        + An abundant supply of data in the world is creating a systemic data fetishism. Avoid collecting data for the vanity’s sake or for the sake of filling the dashboard forms. Narrow the focus and sift through the information that is essential for business leaders to make informed decisions.
+        
+        + We don’t need to reinvent the wheel. Existing diagnostic paradigms and theories can leverage years of research and benchmarking data to grasp how behavioral components of any organization can be explained and predicted.
+        
+        + One of the most valuable efforts in the process of building the future diagnostic tools is meta-research and access to meta-data that integrates existing I-O psychology paradigms into compatible diligence and governance framework. 
+        
+6. Complex social systems, such as teams and organizations, express dynamic properties that cannot be explained by multiple cause and effect relationships. Instead of looking for causes behind interaction outcomes, we need to identify a minimum number of conditions that increase the statistical likelihood of desired results.
+
+7. Full organizational diagnostics should cover the three base layers of assessment - organizational/culture level, team design level, and leadership level.
+
+    + Cultures inevitably form, and they are too valuable to be governed by chance.
+    
+        + Cultures are the vehicle of both good and bad organizational habits.
+        
+    + Teams have the capability to generate results that greatly surpass the capacities of an individual. Still, studies show that should never be taken as a given.
+    
+        + Mission-critical teams are the key generators of business effectiveness.
+        
+    + Peter’s principle explains that people in a hierarchy tend to rise to the level of incompetence. 
+    
+        + The principle is more often than not observed among leadership roles in high-growth environments. Technically skilled individuals are promoted quickly to managerial roles. 
+        
+            + Organizations promote technical experts to managerial roles because leadership skills are low in supply.
+            
+            + Growing companies rarely invest in creating leadership development climate early on in their lifecycle. 
+            
+        + Managers are the key drivers of organizational change.
+        
+8. While tracking HR metrics, one should always have two components in mind: a business goal, and employees’ health/well-being. 
+
+    + Businesses are not families—if we are to use metaphors, they should be compared to sports teams. As such, they always have a tangible goal to achieve.
+    
+    + The ends do not justify the means. Achieving team goals should not endanger members’ health and well-being.
+    
+9. Every employee should be the owner of their personal data. Organizational diagnostics need not be done on an individual, employee, level. The lowest assessment layer should keep individuals in mind, but focus on team dynamics and improving conditions on a team and culture level. 
+
+If you share our views, or disagree with them, feel free to [get in touch](https://orgnostic.com/contact) so we can discuss the ideas we are passionate about. Hopefully, you will inspire us to add more points to our treatise of logic in organizational diagnostics or revise some of our hitherto learnings.
+
+### What is our mission?
+
+We want to help leaders everywhere, build more sustainable and healthier businesses, by using data and domain expertise.  
+
+### What is our vision?
+
+Revolutionize the way human capital data is collected, interpreted, and consumed.
+
+Become a global organizational diagnostics and human capital analytics datahub, where businesses, investors, researchers, and consultants, can have productive and meaningful interactions for the sake of building a sustainable business culture. 
+
+### What is with our name? 
+
+Orgnostic is a portmanteau homograph. As such, it bears two meanings. The first and most obvious one is a shortened version of **org**anizational dia**gnostic**s. The second one is a derivative of the Old Greek word gnosis (γνῶσις, gnōsis, f.), that stands for knowledge or awareness - therefore, it should read as organizational knowledge. 
+
