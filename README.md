@@ -1,0 +1,2 @@
+# tractatus
+Tractatus Logico Orgnosticismus
