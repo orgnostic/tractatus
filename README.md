@@ -39,7 +39,7 @@
         
         + One of the most valuable efforts in the process of building the future diagnostic tools is meta-research and access to meta-data that integrates existing I-O psychology paradigms into compatible diligence and governance framework. 
         
-6. Complex social systems, such as teams and organizations, express dynamic properties that cannot be explained by multiple cause and effect relationships. Instead of looking for causes behind interaction outcomes, we need to identify a minimum number of conditions that increase the statistical likelihood of desired results.
+6. Complex social systems, such as teams and organizations, express dynamic properties that cannot be explained by simplistic cause and effect relationships. Instead of looking for causes behind interaction outcomes, we need to identify a minimum number of conditions that increase the statistical likelihood of desired results.
 
 7. Full organizational diagnostics should cover the three base layers of assessment - organizational/culture level, team design level, and leadership level.
 
