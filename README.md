@@ -1,21 +1,5 @@
 ## Tractatus Logico Orgnosticismus
 
-“This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts” - _Ludwig Wittgenstein, Preface to Tractatus Logico-Philosophicus_
-
-Ludwig Wittgenstein’s TLP was the philosopher’s attempt to structure the most important questions of philosophy, and present solutions to these problems. His solutions are a series of interlinked axioms and logical deductions based on the set of his representations of the world. 
-
-Inspired by Wittgenstein’s structure of thoughts, but with much less sophistication and ambition, (and narrower scope, to say the least) a few of us at [Orgnostic](https://orgnostic.com) wanted to create a document that will encapsulate our key ideas, learnings, and logical deductions that keep driving the development of our product and our organization.
-
-Inspired by Wittgenstein’s structure of thoughts, but with much less sophistication and ambition, (and narrower scope, to say the least) a few of us at Orgnostic wanted to create a document that will encapsulate our key ideas, learnings, and logical deductions that keep driving the development of our product and our organization.
-
-“If this work has a value it consists in two things. First that in it thoughts are expressed, and this value will be the greater the better the thoughts are expressed.” 
-
-This document will be public, live, and will go through many revisions and versions as our organization grows. It will also be a testament to our changing knowledge and culture in the face of our future growth. We believe that such a transparent document will be valuable to our customers, partners, and future employees in a better understanding of where we come from, and where we are going. That being said, we will keep our Tractatus in a version control system to better track these changes as we evolve.
-
-“Indeed what I have here written makes no claim to novelty in points of detail; and therefore I give no sources, because it is indifferent to me whether what I have thought has already been thought before me by another.” 
-
-Without further ado, these are the truths we believe in, that guide our thinking and doing while building our new venture:
-
 1. The value of traditional intangibles is outpacing the value of tangible assets at a significant and increasing rate. Organizational capital presents a substantial portion of those intangibles.
 
     + Allegedly, Drucker said that it’s impossible to manage what you can’t measure; while we disagree with the extremity of such a statement, we still believe that managing what you don’t measure is pretty damn hard. The ability to set a meaningful baseline and track progress is at the core of every productivity optimization.
