@@ -69,19 +69,3 @@
     
 9. Every employee should be the owner of their personal data. Organizational diagnostics need not be done on an individual, employee, level. The lowest assessment layer should keep individuals in mind, but focus on team dynamics and improving conditions on a team and culture level. 
 
-If you share our views, or disagree with them, feel free to [get in touch](https://orgnostic.com/contact) so we can discuss the ideas we are passionate about. Hopefully, you will inspire us to add more points to our treatise of logic in organizational diagnostics or revise some of our hitherto learnings.
-
-### What is our mission?
-
-We want to help leaders everywhere, build more sustainable and healthier businesses, by using data and domain expertise.  
-
-### What is our vision?
-
-Revolutionize the way human capital data is collected, interpreted, and consumed.
-
-Become a global organizational diagnostics and human capital analytics datahub, where businesses, investors, researchers, and consultants, can have productive and meaningful interactions for the sake of building a sustainable business culture. 
-
-### What is with our name? 
-
-Orgnostic is a portmanteau homograph. As such, it bears two meanings. The first and most obvious one is a shortened version of **org**anizational dia**gnostic**s. The second one is a derivative of the Old Greek word gnosis (γνῶσις, gnōsis, f.), that stands for knowledge or awareness - therefore, it should read as organizational knowledge. 
-
