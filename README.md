@@ -69,3 +69,6 @@
     
 9. Every employee should be the owner of their personal data. Organizational diagnostics need not be done on an individual, employee, level. The lowest assessment layer should keep individuals in mind, but focus on team dynamics and improving conditions on a team and culture level. 
 
+***
+
+Link to the [blog post](https://blog.orgnostic.com/tractatus/)
