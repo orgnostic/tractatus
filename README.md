@@ -17,6 +17,10 @@
             
 3. HR teams, by and large, lack the resources and influence on a management/board level to drive the change in the way people data can shape business strategies. We believe that the mass implementation of data-informed decision making to develop org strategies will become a reality once we witness a strong top-down push.
 
+    + Infrastructure complexity and cost, and trust in HR data quality, prevent HR and management teams from prioritizing the adoption of people analytics solutions at times of fast growth and expansion. Ironically, the hypergrowth phase is the part of the company lifecycle when people and organizational decisions make a difference between life and death. 
+    
+        + By simplifying the data ingestion infrastructure, reducing the cost to start, and introducing a proper metric data health assessment and prioritization matrix, we can significantly reduce the barrier to entry for people analytics. 
+
 4. Products for HR data analytics generally focus on building companies’ capability to either generate new data or aggregate existing sets.
 
     + Products that allow you to create new data (such as survey tools) are generally siloed and provide information and recommendations disconnected from the context of the organization and business directions. This makes it hard for business-oriented managers to find the real value in the set of “engagement” metrics other than relying on the common knowledge that engagement drives performance. 
