@@ -32,7 +32,11 @@
     + Pure HR data aggregation makes it hard for anyone who lacks the I-O psychology reference system and theoretical knowledge to interpret the data in the right and, ultimately, meaningful way.
     
         + HR data aggregation products often limit themselves to HR datasets, neglecting business data, and market research.
-        
+    
+    + The future success of producing value from surveys involves combining survey data with HR and finance systems data. 
+
+        + Without such systems, managers will continue to be oblivious to the questions related to the quality of hire, drivers or pay fairness perceptions, causes of turnover and burnout, and others. 
+    
 5. Theory without data is empty; data without theory is blind.
 
     + While conducting a proper human capital diagnostic process, companies need to precisely determine what kind of data they require before the collection starts. Only if you have a theory in mind, you’ll know what type of data you need to track.
