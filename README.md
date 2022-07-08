@@ -20,6 +20,12 @@
     + Infrastructure complexity and cost, and trust in HR data quality, prevent HR and management teams from prioritizing the adoption of people analytics solutions at times of fast growth and expansion. Ironically, the hypergrowth phase is the part of the company lifecycle when people and organizational decisions make a difference between life and death. 
     
         + By simplifying the data ingestion infrastructure, reducing the cost to start, and introducing a proper metric data health assessment and prioritization matrix, we can significantly reduce the barrier to entry for people analytics. 
+        
+    + Education is the second most significant barrier to the mass adoption of analytics in HR.
+    
+        + People analytics is still a young field compared to financial analytics and reporting. The level of maturity of people analytics adoption across HR teams can be likened to the 'teenage sex' story: "Everyone talks about it, but nobody really knows how to do it. And because everyone thinks everyone else is doing it, everyone claims they are doing it."
+        
+        + Providing educational materials and opportunities and empowering the community to learn from the success stories will increase data literacy and speed up the adoption of people analytics in HR. 
 
 4. Products for HR data analytics generally focus on building companies’ capability to either generate new data or aggregate existing sets.
 
